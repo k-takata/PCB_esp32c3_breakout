@@ -30,7 +30,7 @@ KiCad 7.0
 |---------------------|----|------|------|
 |R1                   |   1| 10kΩ|EN端子プルアップ抵抗、2012サイズ|
 |U1                   |   1|[ESP32-C3-WROOM-02-N4](https://akizukidenshi.com/catalog/g/g117493/)|Wi-Fi モジュール|
-|-                    |   2|-     |[細ピンヘッダー](https://akizukidenshi.com/catalog/r/rsheader) 1x9、あるいは[丸ピンIC用連結ソケット](https://akizukidenshi.com/catalog/goods/search.aspx?search=on&goods_specification=%E7%A8%AE%E5%88%A5%EF%BC%9A%E4%B8%B8%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80&ct=040201) 1x9|
+|J1, J2               |   2|-     |[細ピンヘッダー](https://akizukidenshi.com/catalog/r/rsheader) 1x9、あるいは[丸ピンIC用連結ソケット](https://akizukidenshi.com/catalog/goods/search.aspx?search=on&goods_specification=%E7%A8%AE%E5%88%A5%EF%BC%9A%E4%B8%B8%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80&ct=040201) 1x9|
 
 
 ## 完成品
