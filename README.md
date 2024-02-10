@@ -22,6 +22,8 @@ KiCad 7.0
 
 ![PCB pattern](https://raw.githubusercontent.com/k-takata/PCB_esp32c3_breakout/master/images/pcb-pattern.png)
 
+4層基板になっています。
+
 ## 部品表
 
 | Reference           |個数|値    | 説明 |
