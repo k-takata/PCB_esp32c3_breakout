@@ -35,10 +35,7 @@ KiCad 7.0
 
 ## 完成品
 
-T.B.D.
-<!--
-[![完成品](https://raw.githubusercontent.com/k-takata/PCB_esp32c3_breakout/master/images/envmeter-thumb.jpg)](https://raw.githubusercontent.com/k-takata/PCB_esp32c3_breakout/master/images/envmeter.jpg)
--->
+[![完成品](https://raw.githubusercontent.com/k-takata/PCB_esp32c3_breakout/master/images/boards-thumb.jpg)](https://raw.githubusercontent.com/k-takata/PCB_esp32c3_breakout/master/images/boards.jpg)
 
 ## License
 
